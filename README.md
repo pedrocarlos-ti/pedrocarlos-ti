@@ -3,7 +3,7 @@
 ### I am a Software Engineer and React / React Native Lover ⚛️ ❤️.
 
 Graduate in Information Systems and Post Graduate Software Engineering
-I have been working in technology for over 08 years, where throughout my career
+I have been working in technology for over 10 years, where throughout my career
 I had the opportunity to migrate across areas from support to software development where I am today.
 
 I currently work throughout the software development cycle, from idea to final solution
@@ -32,16 +32,6 @@ business problems.
 [<img align='left' alt='MongoDB' width='30px' src="https://img.icons8.com/color/48/000000/mongodb.png"/>][mongodb]
 [<img align='left' alt='GIT' width='30px' src="https://img.icons8.com/color/48/000000/git.png"/>][git]
 <br/>
-
-
-## Github stats
-
-*NOTE: Top languages does not indicate skill level, it's a GitHub metric of which languages I have the most code in on GitHub*
-
-<a href="https://profile-summary-for-github.com/user/pedrocarlos-ti">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=pedrocarlos-ti&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Pedro's GitHub stats"/>
-  <img  height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarlos-ti&hide_langs_below=5&layout=compact" alt="Pedro's language stats"/>
-</a>
 
 
 [linkedin]: https://www.linkedin.com/in/pedro-santos/
