@@ -10,7 +10,7 @@ I currently work throughout the software development cycle, from idea to final s
 using agile methodology to create scalable applications and solve
 business problems.
 
-- 🔭 I’m currently looking for a Frontend oportunity.
+- ⚠️ I’m not currently looking for Frontend oportunities 👨‍💻 .
 - 🌱 I’m currently learning advanced topics in TypeScript, GraphQL and NodeJS.
 - 📫 How to reach me: pedrocarlos.ti@gmail.com
 
