@@ -1,4 +1,4 @@
-# Hi there, I'm Pedro Santos 👋
+# Hi there, I'm Pedro Santos 🇧🇷 🇵🇹 👋
 
 ### I am a Software Engineer and React / React Native Lover ⚛️ ❤️.
 
