@@ -2,15 +2,15 @@
 
 ### I am a Software Engineer and React / React Native Lover ⚛️ ❤️.
 
-Graduate in Information Systems and Post Graduate Software Engineering
-I have been working in technology for over 10 years, where throughout my career
-I had the opportunity to migrate across areas from support to software development where I am today.
+I hold a degree in Information Systems and a postgraduate degree in Software Engineering. 
 
-I currently work throughout the software development cycle, from idea to final solution
-using agile methodology to create scalable applications and solve
-business problems.
+With over a decade of experience in the tech industry, I have transitioned from support roles to my true calling in software development
 
-- ⚠️ I’m not currently looking for Frontend oportunities 👨‍💻 .
+
+Currently, I navigate through all phases of the software development lifecycle from conceptualization 
+to final deployment—utilizing agile methodologies to build scalable applications and address business challenges.
+
+- 🕵️‍♂️ I’m not currently seeking frontend opportunities.
 - 🌱 I’m currently learning advanced topics in TypeScript, GraphQL and NodeJS.
 - 📫 How to reach me: pedrocarlos.ti@gmail.com
 
