@@ -1,15 +1,14 @@
 # Hi there, I'm Pedro Santos 🇧🇷 🇵🇹 👋
-### I am a Software Engineer and React / React Native Lover ⚛️ ❤️
+### I am a Software Engineer and a Passionate React / React Native Developer ⚛️ ❤️
 
-As an experienced software engineer, I hold a degree in Information Systems and a postgraduate degree in Software Engineering. With over a decade of experience in the tech industry, I have transitioned from support roles to my true calling in software development.
+As an experienced software engineer, I hold a degree in Information Systems and a postgraduate degree in Software Engineering. With over a decade of experience in the tech industry, I have transitioned from support roles to pursue my true passion in software development.
 
-Currently, I navigate through all phases of the software development lifecycle - from conceptualization to final deployment - utilizing agile methodologies to build scalable applications and address business challenges. I'm particularly excited about exploring the latest advancements in AI and incorporating them into my projects.
+Currently, I navigate through all phases of the software development lifecycle—from conceptualization to final deployment—utilizing agile methodologies to build scalable applications and address various business challenges. I am particularly excited about exploring the latest advancements in AI and incorporating them into my projects.
 
 ## Emerging Expertise and Opportunities
-- 🌱 I'm currently learning advanced topics in **Next.js** and **AI** to create innovative AI-powered applications.
-- 💻 I'm leveraging the **OpenAI API** to develop cutting-edge AI apps that push the boundaries of what's possible in software engineering.
-- 👨‍💻 I'm open to new opportunities, particularly in the areas of **frontend development**, **full-stack engineering**, and **AI/ML-driven application development**.
-
+- 🌱 I am currently learning advanced topics in **Next.js** and **AI** to create innovative AI-powered applications.
+- 💻 I am leveraging the **OpenAI API** to develop cutting-edge AI applications that push the boundaries of what is possible in software engineering.
+- 👨‍💻 I am open to new opportunities, particularly in the areas of **frontend development**, **full-stack engineering**, and **AI/ML-driven application development**.
 ## Key Highlights
 - 📫 How to reach me: pedrocarlos.ti@gmail.com
 
