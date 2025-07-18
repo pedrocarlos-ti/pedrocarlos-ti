@@ -1,36 +1,58 @@
-# Hi there, I'm Pedro Santos 🇧🇷 🇵🇹 👋
-### I am a Software Engineer and a Passionate React / React Native Developer ⚛️ ❤️
+# 👋 Hey, I'm Pedro Santos 🇧🇷 🇵🇹
 
-As an experienced software engineer, I hold a degree in Information Systems and a postgraduate degree in Software Engineering. With over a decade of experience in the tech industry, I have transitioned from support roles to pursue my true passion in software development.
+🎯 **Software Engineer | Fullstack JavaScript Dev | AI Explorer**
 
-Currently, I navigate through all phases of the software development lifecycle—from conceptualization to final deployment—utilizing agile methodologies to build scalable applications and address various business challenges. I am particularly excited about exploring the latest advancements in AI and incorporating them into my projects.
+---
 
-## Emerging Expertise and Opportunities
-- 🌱 I am currently learning advanced topics in **Next.js** and **AI** to create innovative AI-powered applications.
-- 💻 I am leveraging the **OpenAI API** to develop cutting-edge AI applications that push the boundaries of what is possible in software engineering.
-- 👨‍💻 I am open to new opportunities, particularly in the areas of **frontend development**, **full-stack engineering**, and **AI/ML-driven application development**.
-## Key Highlights
-- 📫 How to reach me: pedrocarlos.ti@gmail.com
+I'm a passionate developer with a background in Information Systems and a postgrad in Software Engineering. Over the last decade, I’ve grown from support roles into full-time software engineering—building modern, scalable applications with a strong focus on usability and performance.
 
-## Let's connect:
-[<img align='left' alt='' width='22px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' />][linkedin]
-<br/>
+I specialize in the **JavaScript ecosystem**—from web to mobile—with a growing interest in **AI integration** to push the limits of what apps can do.
 
-## Languages and Tools
-[<img align='left' alt='TypeScript' width='30px' src="https://img.icons8.com/color/48/000000/typescript.png"/>][typescript]
-[<img align='left' alt='React' width='30px' src="https://img.icons8.com/color/48/000000/nextjs.png"/>][react]
-[<img align='left' alt='SASS' width='30px' src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>][tailwind]
-[<img align='left' alt='React' width='30px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][nextjs]
-[<img align='left' alt='Node.js' width='30px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][node]
-[<img align='left' alt='MongoDB' width='30px' src="https://img.icons8.com/color/48/000000/mongodb.png"/>][mongodb]
-[<img align='left' alt='GIT' width='30px' src="https://img.icons8.com/color/48/000000/git.png"/>][git]
-<br/>
+---
 
-[linkedin]: https://www.linkedin.com/in/pedro-santos/
-[react]: https://pt-br.reactjs.org/
-[nextjs]: https://nextjs.org/
-[tailwind]: tailwindcss.com/
-[typescript]: https://www.typescriptlang.org/
-[node]: https://nodejs.org/en/
-[mongodb]: https://www.mongodb.com/
-[git]: https://git-scm.com/
+## 🚀 What I’m Working On
+
+- 🧠 Exploring **AI-powered solutions** with **OpenAI API**
+- ⚡ Diving deep into **Bun** as a modern replacement for Node.js
+- 🔥 Advancing in **Next.js App Router** and **React** for frontier web development
+- 📱 Building native apps with **React Native**, **Expo**, and modern stacks
+- 🌱 Using **Zustand** for lean and effective state management
+
+---
+
+## 🧰 Tech Stack
+
+<div align="left">
+  <img alt="TypeScript" width="32" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img alt="Next.js" width="32" src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+  <img alt="Tailwind CSS" width="32" src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
+  <img alt="React" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/>
+  <img alt="React Native" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png"/>
+  <img alt="Node.js" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/>
+  <img alt="Bun" width="32" src="https://bun.sh/logo.svg" />
+  <img alt="Zustand" width="32" src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" />
+  <img alt="MongoDB" width="32" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img alt="Git" width="32" src="https://img.icons8.com/color/48/000000/git.png"/>
+</div>
+
+---
+
+## 💼 Open to Collaborations
+
+I'm currently open to freelance/remote/full-time opportunities in:
+
+- 🧩 Frontend Development (React, Next.js)
+- 🌍 Fullstack JavaScript Engineering (Bun, Node, MongoDB)
+- 🤖 AI/ML-powered App Development
+- 📱 Mobile Development (React Native + Expo)
+
+---
+
+## 📫 Let’s Connect
+
+- 💌 Email: pedrocarlos.ti@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-santos/)
+
+---
+
+> 💡 *“I'm not just coding apps—I’m designing experiences, solving real problems, and experimenting at the edge of tech.”*
